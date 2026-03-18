@@ -1,0 +1,4 @@
+db:
+    url: sqlite:///example.db
+logging:
+    level: DEBUG
